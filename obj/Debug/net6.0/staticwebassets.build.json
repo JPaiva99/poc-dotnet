@@ -1,8 +1,8 @@
 {
   "Version": 1,
-  "Hash": "RQvgjDn4mwlKi4kVRTqK2Itsf6mMJ0MdQVfRJHWC/NA=",
-  "Source": "dotnet-poc",
-  "BasePath": "_content/dotnet-poc",
+  "Hash": "wnJHdYXOg1gLApn9wYmjnqJkVfNsI0GigaJe5T6lIu0=",
+  "Source": "dotnet-poc.Api",
+  "BasePath": "_content/dotnet-poc.Api",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],

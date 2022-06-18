@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31919.166
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dotnet-poc", "dotnet-poc.csproj", "{98D3877C-FBB2-4196-9A0E-99FF820FADDE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "dotnet-poc.Api", "dotnet-poc.Api.csproj", "{98D3877C-FBB2-4196-9A0E-99FF820FADDE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core", "..\Core\Core.csproj", "{0539BE9F-A6C2-4584-AE73-0A7505283D5B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{98D3877C-FBB2-4196-9A0E-99FF820FADDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{98D3877C-FBB2-4196-9A0E-99FF820FADDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{98D3877C-FBB2-4196-9A0E-99FF820FADDE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0539BE9F-A6C2-4584-AE73-0A7505283D5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0539BE9F-A6C2-4584-AE73-0A7505283D5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0539BE9F-A6C2-4584-AE73-0A7505283D5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0539BE9F-A6C2-4584-AE73-0A7505283D5B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

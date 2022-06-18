@@ -3,9 +3,24 @@
   "ProjectMap": {
     "98d3877c-fbb2-4196-9a0e-99ff820fadde": {
       "ProjectGuid": "98d3877c-fbb2-4196-9a0e-99ff820fadde",
-      "DisplayName": "dotnet-poc",
+      "DisplayName": "dotnet-poc.Api",
       "ColorIndex": 0
+    },
+    "ed28c455-83eb-4cc3-83b8-432e73411c83": {
+      "ProjectGuid": "ed28c455-83eb-4cc3-83b8-432e73411c83",
+      "DisplayName": "Api.Core",
+      "ColorIndex": 1
+    },
+    "a9da254c-2da5-48c9-9059-51ead01a7a39": {
+      "ProjectGuid": "a9da254c-2da5-48c9-9059-51ead01a7a39",
+      "DisplayName": "DotNet6.Api.Core",
+      "ColorIndex": 2
+    },
+    "0539be9f-a6c2-4584-ae73-0a7505283d5b": {
+      "ProjectGuid": "0539be9f-a6c2-4584-ae73-0a7505283d5b",
+      "DisplayName": "Core",
+      "ColorIndex": 3
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 4
 }
