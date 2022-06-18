@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "98d3877c-fbb2-4196-9a0e-99ff820fadde": {
+      "ProjectGuid": "98d3877c-fbb2-4196-9a0e-99ff820fadde",
+      "DisplayName": "dotnet-poc",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
